@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17070107080",
+    "firebase_url": "https://hellokotlin-11964.firebaseio.com",
+    "project_id": "hellokotlin-11964",
+    "storage_bucket": "hellokotlin-11964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17070107080:android:ee0c2c0c2df9d752",
+        "android_client_info": {
+          "package_name": "cs371m.arjungopisetty.hellokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17070107080-aiqtb89sd8a2189nag9mhrflt1961ee8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs371m.arjungopisetty.hellokotlin",
+            "certificate_hash": "8073747ab5c5bf7115d813c114e70da11af8c645"
+          }
+        },
+        {
+          "client_id": "17070107080-cibrdb8uhtvt0ar12da59khbf08hg2nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99nk66EuLcl1Ks8Zq9YkEIcqdxzCX0j8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17070107080-cibrdb8uhtvt0ar12da59khbf08hg2nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
