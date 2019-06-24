@@ -22,6 +22,7 @@ script:
 - "./gradlew clean"
 - "./gradlew test"
 - "./gradlew connectedAndroidTest"
+- "./gradlew assembleRelease crashlyticsUploadDistributionRelease"
 before_install:
 - openssl aes-256-cbc -K $encrypted_688a122d5d51_key -iv $encrypted_688a122d5d51_iv
   -in keystore.enc -out keystore -d
